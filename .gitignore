@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mac
+.DS_Store
+
+# Keys and Credentials
+.env
+*.json.key
+credentials*.json
+
+# Heavy files
+*.csv
+*.parquet
